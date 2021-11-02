@@ -12,3 +12,4 @@ spec:
     - ./systems/backstage-system.yaml
     - ./domains/backstage-domain.yaml
     - ./components/tanzu-java-web-app.yaml
+    - ./components/spring-petclinic.yaml
