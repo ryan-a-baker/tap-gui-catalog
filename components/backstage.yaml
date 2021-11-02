@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-component
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
   description: Tanzu Application Platform GUI Component
   tags:
     - apps-v1

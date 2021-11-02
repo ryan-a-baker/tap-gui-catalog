@@ -6,9 +6,9 @@ metadata:
   tags:
     - app-accelerator
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=tanzu-java-web-app'
+    'backstage.io/kubernetes-label-selector': 'carto.run/workload-name=tanzu-java-web-app'
 spec:
   type: service
   lifecycle: demo
   owner: default-team
-  system: 
+  system: demo
