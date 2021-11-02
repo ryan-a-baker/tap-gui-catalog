@@ -4,7 +4,7 @@ metadata:
   name: petclinic-app
   description: Petclinic App Website
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/part-of=petclinic-server'
+    'backstage.io/kubernetes-label-selector': 'carto.run/workload-name=tanzu-spring-pet-clinic' 
 spec:
   type: service
   lifecycle: experimental
