@@ -4,4 +4,4 @@ metadata:
   name: petclinic
   description: Spring Petclinic Application
 spec:
-  owner: spring-devs
+  owner: default-team
